@@ -1,6 +1,6 @@
 ![img.png](assets/img.png)
 
-# Extra Wallet — Personal Finance App
+# Extra Wallet — Personal Finance App 
 
 **Extra Wallet** is a **personal finance desktop application** built with **Java**, managed via **Maven**, and powered by **JavaFX** for a clean and responsive GUI. All data is stored locally using **SQLite**, making the app lightweight, reliable, and fully offline.
 
